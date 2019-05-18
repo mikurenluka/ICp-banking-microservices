@@ -11,11 +11,11 @@ var url_api_devloper_portal = "https://api.us.apiconnect.ibmcloud.com/spbodieusi
 
 
 // Your API ClientID
-var IBM_CLIENT_ID = "YOUR_CLIENT_ID_HERE";
+var IBM_CLIENT_ID = "fa58e2b9-3cff-4f80-b333-319165d9af67 ";
 
 
 // Your API ClientSecret
-var IBM_CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE";
+var IBM_CLIENT_SECRET = "I3rQ1hV1oA4qF3cD0oU5dM0aV4vV4wH4lT4qR5kN7hI2xC0sX2";
 
 
 /*
